@@ -1,6 +1,6 @@
 # Stock-Price-Prediction
 # 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+> 빅데이터를 통한 주식가격 예측
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
